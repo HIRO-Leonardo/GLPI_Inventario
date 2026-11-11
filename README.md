@@ -89,6 +89,12 @@ Coloque a pasta em um compartilhamento de rede (ou use GPO / ferramenta de distr
 | Inventário não aparece no GLPI                  | Confira a URL do servidor, firewall e se o GLPI aceita inventário nativo.             |
 | Atalho sem ícone                                | O arquivo `links-uteis_icone.ico` não estava na pasta do script.                      |
 
+## Autor
+
+**Leonardo Teixeira**
+- GitHub: [@HIRO-Leonardo](https://github.com/HIRO-Leonardo)
+- LinkedIn: [Leonardo Teixeira](https://www.linkedin.com/in/leonardo-teixeira-desenvolvedor/)
+
 ## Licença
 
-Defina a licença de sua preferência (ex.: MIT).
+Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
